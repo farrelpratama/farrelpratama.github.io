@@ -5,11 +5,11 @@
   padding: 0;
   box-sizing: border-box;
   scroll-behavior: smooth;
-  overflow-x: hidden;
 }
 
 body {
   font-family: "Playfair Display", serif;
+  overflow-x: hidden;
 }
 
 /* Navigation bar */
@@ -21,7 +21,7 @@ nav {
   width: 100%;
   justify-content: space-around;
   align-items: center;
-  padding: 20px;
+  padding: 20px 0;
   box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
   background-color: white;
 }
